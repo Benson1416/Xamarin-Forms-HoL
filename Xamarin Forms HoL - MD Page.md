@@ -1,6 +1,7 @@
 # Xamarin.Forms HoL - MasterDetailPage Page #
 
-本Lab演示 Xamarin.Forms MasterDetail Page 開發漢堡功能選單
+本Lab演示 Xamarin.Forms MasterDetail Page 開發漢堡功能選單，透過這個Lab 將學會如何使用 Xamarin.Forms 所提供的Page UI以及資料繫結。
+
 
 
 
@@ -47,7 +48,7 @@
 		  </ListView>
 		</ContentPage>
 
-- 開啟MenuPage.xaml.cs，並用以下程式內容取代，在這個程式裡我們建立了一個AppMenuItem資料集合，並將它繫結給ListView資料容器元件
+- 開啟MenuPage.xaml.cs，並用以下程式碼取代，在這個程式裡我們建立了一個AppMenuItem資料集合，並將它繫結給ListView資料容器元件
 
 	    using System;
 		using System.Collections.Generic;
@@ -94,7 +95,7 @@
 		  </ListView>
 		</ContentPage>
 
-- 開啟EmployeesPage.xaml.cs，並用以下程式內容取代，在這個程式裡我們建立了一個Employee資料集合，並將它繫結給ListView資料容器元件
+- 開啟EmployeesPage.xaml.cs，並用以下程式碼取代，在這個程式裡我們建立了一個Employee資料集合，並將它繫結給ListView資料容器元件
 
 		using System;
 		using System.Collections.Generic;
