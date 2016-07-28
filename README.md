@@ -14,3 +14,9 @@ Xamarin.Forms Hands on Labs
 [Xamarin.Forms DatePicker UI Component](https://github.com/iangithub/Xamarin-Forms-HoL/blob/master/Xamarin.Forms%20HoL%20-%20DateUI.md)
 
 延續 Xamarin.Forms MasterDetail Page Lab，加入DateUI 以及button UI元件，透過這個Lab 將學會如何使用 Xamarin.Forms 所提供的UI Component以及使用Component事件。
+
+## Xamarin.Forms HoL - DI Service ##
+
+[Xamarin.Forms HoL - DI Service](https://github.com/iangithub/Xamarin-Forms-HoL/blob/master/Xamarin.Forms%20HoL%20-%20DI%20Service.md)
+
+延續 Xamarin.Forms MasterDetail Page Lab，加入相依性服務（DependencyService）來取得設備的螢幕方向性資料，借以演示Xamarin.Forms相依性服務注入機制。
