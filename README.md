@@ -21,8 +21,8 @@ Xamarin.Forms Hands on Labs
 
 延續 Xamarin.Forms MasterDetail Page Lab，加入相依性服務（DependencyService）來取得設備的螢幕方向性資料，借以演示Xamarin.Forms相依性服務注入機制。
 
-## Xamarin.Forms HoL - DI Service ##
+## Xamarin.Forms HoL - Component plugin ##
 
-[Xamarin.Forms HoL - DI Service](https://github.com/iangithub/Xamarin-Forms-HoL/blob/master/Xamaring.Forms%20HoL%20-%20Camera.md)
+[Xamarin.Forms HoL - Component plugin](https://github.com/iangithub/Xamarin-Forms-HoL/blob/master/Xamaring.Forms%20HoL%20-%20Camera.md)
 
 延續 Xamarin.Forms MasterDetail Page Lab，加入拍照功能，透過這個Lab 將學會如何使用 Xamarin 所提供的Component plugin。
