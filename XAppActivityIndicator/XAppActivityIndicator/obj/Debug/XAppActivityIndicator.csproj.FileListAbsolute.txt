@@ -1,0 +1,17 @@
+D:\MY.NET\TempProject\XAppActivityIndicator\XAppActivityIndicator\XAppActivityIndicator\bin\Debug\XAppActivityIndicator.dll
+D:\MY.NET\TempProject\XAppActivityIndicator\XAppActivityIndicator\XAppActivityIndicator\bin\Debug\XAppActivityIndicator.pdb
+D:\MY.NET\TempProject\XAppActivityIndicator\XAppActivityIndicator\XAppActivityIndicator\bin\Debug\Xamarin.Forms.Core.dll
+D:\MY.NET\TempProject\XAppActivityIndicator\XAppActivityIndicator\XAppActivityIndicator\bin\Debug\Xamarin.Forms.Platform.dll
+D:\MY.NET\TempProject\XAppActivityIndicator\XAppActivityIndicator\XAppActivityIndicator\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\MY.NET\TempProject\XAppActivityIndicator\XAppActivityIndicator\XAppActivityIndicator\bin\Debug\Xamarin.Forms.Core.pdb
+D:\MY.NET\TempProject\XAppActivityIndicator\XAppActivityIndicator\XAppActivityIndicator\bin\Debug\Xamarin.Forms.Core.xml
+D:\MY.NET\TempProject\XAppActivityIndicator\XAppActivityIndicator\XAppActivityIndicator\bin\Debug\Xamarin.Forms.Platform.pdb
+D:\MY.NET\TempProject\XAppActivityIndicator\XAppActivityIndicator\XAppActivityIndicator\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\MY.NET\TempProject\XAppActivityIndicator\XAppActivityIndicator\XAppActivityIndicator\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\MY.NET\TempProject\XAppActivityIndicator\XAppActivityIndicator\XAppActivityIndicator\obj\Debug\XAppActivityIndicator.csprojResolveAssemblyReference.cache
+D:\MY.NET\TempProject\XAppActivityIndicator\XAppActivityIndicator\XAppActivityIndicator\obj\Debug\XAppActivityIndicator.MainPage.xaml.g.cs
+D:\MY.NET\TempProject\XAppActivityIndicator\XAppActivityIndicator\XAppActivityIndicator\obj\Debug\XAppActivityIndicator.App.xaml.g.cs
+D:\MY.NET\TempProject\XAppActivityIndicator\XAppActivityIndicator\XAppActivityIndicator\obj\Debug\XAppActivityIndicator.dll
+D:\MY.NET\TempProject\XAppActivityIndicator\XAppActivityIndicator\XAppActivityIndicator\obj\Debug\XAppActivityIndicator.pdb
+D:\MY.NET\TempProject\XAppActivityIndicator\XAppActivityIndicator\XAppActivityIndicator\obj\Debug\XAppActivityIndicator.dll.mdb
+D:\MY.NET\TempProject\XAppActivityIndicator\XAppActivityIndicator\XAppActivityIndicator\bin\Debug\XAppActivityIndicator.dll.mdb
