@@ -8,7 +8,7 @@ using XAppListViewPullToRefresh.ViewModels;
 
 namespace XAppListViewPullToRefresh
 {
-    //https://developer.xamarin.com/guides/xamarin-forms/user-interface/listview/interactivity/#Pull_to_Refresh
+    
     public partial class MainPage : ContentPage
     {
         PersonalViewModel _pvm = new PersonalViewModel();
